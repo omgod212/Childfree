@@ -90,6 +90,10 @@ input, select, textarea {
 #main #content p {
 	font-family: "微軟正黑體";
 }
+#main #content h4 {
+	font-family: "微軟正黑體";
+}
+
 
 
 
@@ -273,6 +277,14 @@ input, select, textarea {
 #main #second .content {
 	font-family: "微軟正黑體";
 }
+#second .major h2 {
+	font-family: "微軟正黑體";
+}
+#second .major p {
+	font-family: "微軟正黑體";
+}
+
+
 
 
 
